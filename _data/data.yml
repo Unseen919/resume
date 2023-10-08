@@ -1,0 +1,128 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Benjamin Weisbaum
+    tagline: 14 Years Old
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ben@weisbaum.com.au
+    phone: 0435 672 880
+    timezone: Australia/Sydney Timezone
+    citizenship:
+    website: # blog.webjeda.com #do not add http://
+    linkedin: # alandoe
+    xing: # alandoe
+    github: # sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: # '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Novice
+
+    interests:
+      title: Hobbies
+      info:
+        - item: Football
+          link:
+
+        - item: Cycling
+          link:
+          
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Profile
+    summary: |
+      I am a highly motivated person and can thrive in many different environments. I'm also an excellent team player and have a great work ethic. With an easygoing nature, I can calmly communicate effectively. I have been nominated and won some honourable awards at both of my schools
+education:
+    title: Education
+    info:
+      - degree: Primary School
+        university: Our Lady Star of the Sea, Terrigal
+        time: 2015 - 2021
+        details:
+      - degree: High School
+        university: St Edwards College, East Gosford
+        time: 2022 - Present
+        details: 
+
+experiences:
+    title: Experiences
+    info:
+      - role: Football referee 
+        time: 2020 - 2023
+        company: Terrigal United Football Club
+        details: |
+          Worked as a referee for childrens football for 3 years.
+      - role: Actor
+        time: 2022
+        company: Life Education Australia
+        details: |
+          Worked in roles for Life Education Australia with their Healthy Harold program. 
+
+certifications:
+      title: My attributes
+      list:
+        - name: Problem Solver
+          start: #2020
+          end: #2021
+          organization: #Microsoft
+          credentialid: #111-222
+          credentialurl: #www.google.com
+          credentialname: #Google
+          details: # 
+        - name: Coopritive
+          start: #2019
+          end: #
+          organization: #Microsoft
+          credentialid: #111-222
+          credentialurl: #www.github.com
+          credentialname: #Github
+          details: 
+        - name: Helpful
+        - name: Hard Worker
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Technology
+        level: 74%
+
+      - name: Woodworks
+        level: 70%
+
+      - name: Cycling
+        level: 76%
+
+      - name: Video Editing
+        level: 71%
+
+      - name: Design
+        level: 84%
+
+
+footer: >
+    Credit to <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for making this template, and my brother Samuel Weisbaum for setting up, editing and hosting it.
+
